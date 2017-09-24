@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=elC
+GenericName=elC
+Comment=The elementary OS Combobulator
+Categories=Utility;Settings;
+Exec=com.github.PretzelJones.elC
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=elC
+Keywords=combobulator;settings;configure;
